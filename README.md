@@ -1,6 +1,7 @@
 # PHAST Temperature Dispersion Analyser
 
-A tool for analysing temperature dispersion data from PHAST simulations.
+A tool for analysing temperature data from PHAST dispersion reports.
+Useful for cryogenic risk assessments where you want to find the maximum downwind distance to a temperature of interest.
 
 ## Installation
 
